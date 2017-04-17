@@ -31,10 +31,10 @@ See this post for more details on KoLite: http://www.johnpapa.net/kolite1-1
 
 6. Renamed file knockout.asyncCommand.js to knockout.command.js as it now contains both async and sync commands.
 
-##NuGet
+## NuGet
 Also available on NuGet at https://nuget.org/packages/KoLite
 
-##Super Quick Start
+## Super Quick Start
 You can check out this fiddle to see the asyncCommand, command and activity in action. http://jsfiddle.net/hfjallemark/zEKRb/
 
 ## Quick Start
